@@ -1,0 +1,6 @@
+@TableTennisApi_HostAddress = http://localhost:5253
+
+GET {{TableTennisApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
